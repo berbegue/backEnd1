@@ -1,0 +1,26 @@
+[
+	{
+		"title": "Tijera",
+		"price": 15.2,
+        "thumbnail" : "link",
+		"id": 1
+	},
+	{
+		"title": "Lapicera",
+		"price": 13,
+        "thumbnail" : "link",
+		"id": 2
+	},
+	{
+		"title": "Sacapunta",
+		"price": 20.38,
+        "thumbnail" : "link",
+		"id": 3
+	},
+	{
+		"title": "Goma",
+		"price": 1.5,
+        "thumbnail" : "link",
+		"id": 4
+	}
+]
